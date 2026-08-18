@@ -1,5 +1,8 @@
 # E-Commerce Sales Analytics Database
 
+## Dashboard Preview
+![Dashboard](dashboard_preview.png)
+
 ## Overview
 This project demonstrates advanced SQL skills by designing a fully normalized relational database for an e-commerce platform. It models real-world business operations (customers, products, orders, shipments, and reviews) and answers complex analytical questions using advanced SQL techniques.
 
